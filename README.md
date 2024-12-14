@@ -2,7 +2,7 @@
 ![Login and register](LoginRegisterPreview.png)
 ![Login and register](register.png)
 
-## GamePlay preview
+## #GamePlay preview
 ![Login and register](gameplay.png)
 
 ## endgame preview
