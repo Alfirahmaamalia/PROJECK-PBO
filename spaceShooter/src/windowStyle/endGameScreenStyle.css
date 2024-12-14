@@ -71,8 +71,8 @@
 #gameScr {
     -fx-background-repeat: no-repeat;
     background-repeat: no-repeat;
-    -fx-background-size: 1000 800;
-    background-size: 1000px 800px;
+    -fx-background-size: 800 600;
+    background-size: 800px 600px;
     -fx-background-position: center center;
     background-position: center center;
 }
