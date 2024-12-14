@@ -27,7 +27,7 @@ public class MainScreen implements Initializable {
     @FXML
     private Label labelSelect;
 
-    private String buttonClick = "-fx-background-color: #00A8CC;";
+    private String buttonClick = "-fx-background-color: #2e2b65;";
     private String buttonNormal = "@../windowStyle/windowStyle.css";
 
     //Fungsi untuk memulai permainan Mengecek pesawat mana yang dipilih dan mengatur scene ke layar permainan
