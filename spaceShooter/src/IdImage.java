@@ -16,5 +16,5 @@ public class IdImage {
     public final Image enemyLaserLvl1 = new Image("enemyLaser/enemyLaserLvl1.png");
     public final Image enemyLaserLvl2 = new Image("enemyLaser/enemyLaserLvl2.png");
     public final Image background = new Image("background/spaceBG.png");
-    public final Image explosionEnemy = new Image("background/explosionEnemy.png");
+    public final Image explosionEnemy = new Image("background/efekLedakan.png");
 }
