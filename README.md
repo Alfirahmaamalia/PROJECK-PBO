@@ -1,4 +1,4 @@
-## #Login and Register preview
+## #LOGIN & REGISTER preview
 ![Login and register](LoginRegisterPreview.png)
 ![Login and register](register.png)
 
