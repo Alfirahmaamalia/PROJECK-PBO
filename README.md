@@ -5,5 +5,5 @@
 ## #GAMEPLAY🚀 preview
 ![Login and register](gameplay.png)
 
-## #endgame preview
+## #ENDGAME☠️😵💀 preview
 ![Login and register](image.png)
