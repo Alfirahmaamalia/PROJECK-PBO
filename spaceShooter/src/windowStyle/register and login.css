@@ -1,0 +1,59 @@
+.root {
+    -fx-background-image: url('../background/loginRegisterBG.png');
+    background-image: url('../background/loginRegisterBG.png');
+    -fx-background-size: cover;
+    background-size: cover;
+    -fx-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -fx-background-position: center;
+    background-position: center;
+}
+.button {
+    -fx-box-shadow: inset 0px -3px 7px 0px #63478f;
+    box-shadow: inset 0px -3px 7px 0px #63478f;
+    -fx-background: linear-gradient(to bottom, #63478f 5%, #2e2b65 100%);
+    background: linear-gradient(to bottom, #63478f 5%, #2e2b65 100%);
+    -fx-background-color: #4c4595;
+    background-color: #4c4595;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+    -fx-display: inline-block;
+    display: inline-block;
+    -fx-cursor: pointer;
+    cursor: pointer;
+    -fx-color: #000000;
+    color: #000000;
+    -fx-font-family: Arial;
+    font-family: Arial;
+    -fx-font-size: 12.5px; /* Reduced from 25px to 12.5px */
+    font-size: 12.5px;
+    -fx-padding: 4.5px 11.5px; /* Reduced from 9px 23px to 4.5px 11.5px */
+    padding: 4.5px 11.5px;
+    -fx-text-decoration: none;
+    text-decoration: none;
+}
+
+.button:hover {
+    -fx-box-shadow: inset 0px -3px 7px 0px #63478f;
+    box-shadow: inset 0px -3px 7px 0px #63478f;
+    -fx-background: linear-gradient(to bottom, #63478f 5%, #2e2b65 100%);
+    background: linear-gradient(to bottom, #63478f 5%, #2e2b65 100%);
+    -fx-background-color: #212561;
+    background-color: #212561;
+    -fx-border-radius: 3px;
+    border-radius: 3px;
+    -fx-display: inline-block;
+    display: inline-block;
+    -fx-cursor: pointer;
+    cursor: pointer;
+    -fx-color: #000000;
+    color: #000000;
+    -fx-font-family: Arial;
+    font-family: Arial;
+    -fx-font-size: 12.5px; /* Reduced from 25px to 12.5px */
+    font-size: 12.5px;
+    -fx-padding: 4.5px 11.5px; /* Reduced from 9px 23px to 4.5px 11.5px */
+    padding: 4.5px 11.5px;
+    -fx-text-decoration: none;
+    text-decoration: none;
+}
