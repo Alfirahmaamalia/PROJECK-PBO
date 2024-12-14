@@ -1,7 +1,7 @@
 ## #LOGIN🔐
 ![Login and register](LoginRegisterPreview.png)
 
-## #REGISTER preview
+## #REGISTER🔓 preview
 ![Login and register](register.png)
 
 ## #GAMEPLAY🚀 preview
