@@ -17,14 +17,14 @@ public class EndGameWindow implements Initializable {
 
     //untuk memulai game kembali
     @FXML
-    private void playAin() throws IOException {
+    private void playAgain() throws IOException {
         Parent parent = FXMLLoader.load(getClass().getResource("FXML/mainScreen.fxml"));
         Stage stage = (Stage) scoreLabel.getScene().getWindow();
         stage.setScene(new Scene(parent));
 
     }
     //Menampilkan Score
-    @override
+    @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         PlayerController game = new PlayerController();
         scoreLabel.setText("Your score: " + game.getScore());
